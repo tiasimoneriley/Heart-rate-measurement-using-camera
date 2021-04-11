@@ -1,6 +1,6 @@
-'''
+"""
 This script is to test the performance of all functions in the face_utilities class.
-'''
+"""
 
 from face_utilities import Face_utilities
 import cv2
